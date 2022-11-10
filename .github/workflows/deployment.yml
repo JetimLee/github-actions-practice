@@ -44,3 +44,5 @@ jobs:
       run: npm run build
     - name: Deploy 
       run: echo "This is where it'd get deployed..."
+    - name : Goodbye
+      run: echo "Goodbye"
